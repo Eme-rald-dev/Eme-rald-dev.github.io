@@ -53,7 +53,7 @@ Page 2: productivity and time saved
 | File | Description |
 |------|-------------|
 | `aiusage.xlsx` | Cleaned dataset |
-| `cleaning.sql` | SQL scripts used to clean the data |
+| `aiusage.sql` | SQL scripts used to clean the data |
 | `powerbi1.pbix` | Power BI dashboard file |
 | `screenshots/` | Raw data, clean data, and dashboard screenshots |
 
